@@ -46,11 +46,8 @@ Some of the insights identified through this dashboard include:
 
 🖼️ **Dashboard Preview**
 
-Above: Snapshot of the interactive Excel Dashboard.
+<img src="https://github.com/sahelinath22/Superstore-Sales-Dashboard-Excel-Project-1/blob/6342205490a3b488c383a86e1079d12365f2624e/My%20Excel%20Project%20!.png" alt="Image Description" width="600">
 
-🎥 **Dashboard Demo**
-
-Watch the interactive dashboard video to see how filters and slicers dynamically change insights. 
 
 📂 **Repository Contents** 
 
